@@ -5,7 +5,7 @@ This repo contains R and Python code used to gather and analyze data pertaining 
 
 ReplicationCode.R contains the code for the statistical analysis in the paper.
 
-createagencycontributionsmeasure.R is the code for using public lobbying records to determind the sectors most active in lobbying a given agency.
+createagencycontributionsmeasure.R is the code for using public lobbying records to determine the sectors most active in lobbying a given agency and tie those to campaign contributions.
 
 createbonicasql.R is the code to take Adam Bonica's DIME data and turn it into a much more useable sqlite database.
 
